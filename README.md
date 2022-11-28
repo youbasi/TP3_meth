@@ -11,3 +11,4 @@
 ###### - correct_code : la parti du code qui est correct mais qu'on merge pas encore tant que la parti compléte n'est pas fini
 ###### - Main : la parti du code 100% fonctionnel et fini 
 
+###### Ce projet a été réalisé par : Oumaima TARHATE & Youssef HAOUES RHAIEM
